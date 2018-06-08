@@ -1,0 +1,28 @@
+{
+  "name": "material-demo",
+  "private": true,
+  "description": "https://github.com/mui-org/material-ui/tree/v1-beta/docs/src/pages/demos/autocomplete/IntegrationReactSelect.js",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "material-ui": "next",
+    "@material-ui/icons": "latest",
+    "keycode": "latest",
+    "downshift": "latest",
+    "react-autosuggest": "latest",
+    "autosuggest-highlight": "latest",
+    "react-select": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
